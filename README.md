@@ -1,4 +1,4 @@
-# plp-python-week3 - Grade Reporter & Bug Hunt
+# plp-python-week3 Grade Reporter & Bug Hunt
 
 ## Files
 - grade_reporter.py - Loops through a list of scores, assigns grades using if/elif/else, counts passes/fails and calculates average.
